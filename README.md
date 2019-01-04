@@ -4,5 +4,5 @@ This repo is a simple illustration of downloading tweets using Twitter API. Here
 
 And, a simple twitter bot class is created in twitter_bot.py and its simple applications are demonstrated in the notebook playing_with_tweeter_bot.
 
-* Dependency 
-Uses python package tweepy to access the Twitter API.
+* Dependency: 
+uses python package tweepy to access the Twitter API.
