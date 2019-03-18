@@ -1,3 +1,7 @@
+'''
+author: Rabindra Nepal
+Email: rnepal2@unl.edu
+'''
 # standard libraries
 import os, time
 import json, tokenize
